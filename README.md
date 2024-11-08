@@ -1,3 +1,5 @@
 <h1>Simple gamedev canvas workshop</h1>
 
-<img width="483" alt="Снимок экрана 2024-11-08 в 16 33 35" src="https://github.com/user-attachments/assets/9d039169-6d39-42dc-81b3-4d34293a8352">
+Destroying bricks with ball. in the bottom ball shouldn't touch the ground. Use paddle(move with keys or mouse)
+
+<img width="491" alt="Game" src="https://github.com/user-attachments/assets/bca79ad5-86da-4156-875c-a2a8c53f5961">
